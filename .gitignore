@@ -1,4 +1,6 @@
 # Byte-compiled / optimized / DLL files
+utils/config.py
+zappa_settings.json
 __pycache__/
 *.py[cod]
 *$py.class
